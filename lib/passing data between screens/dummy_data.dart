@@ -1,0 +1,25 @@
+List<Map<String,dynamic>> products = [
+{'id':1,
+'name': 'LEVIS BOOT',
+'price': 3999,
+'rating': 4.5,
+'description': 'A shoe is an item of footwear intended to protect and comfort the human foot.',
+'image1': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtB_G2XgNeBIzhDzQgoh1qoPVM-34W0CZxQ&usqp=CAU',
+},
+  {
+    'id':2,
+    'name': 'BOOT',
+    'price': 4999,
+    'rating': 4.5,
+    'description': 'A shoe is an item of footwear intended to protect and comfort the human foot.',
+    'image1': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuCJp446wot5YJg6fxEgBzalfx6juxp_hYg&usqp=CAU',
+  },
+  {
+    'id':3,
+    'name': 'Shoes',
+    'price': 3599,
+    'rating': 4.5,
+    'description': 'A shoe is an item of footwear intended to protect and comfort the human foot.',
+    'image1': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj1yLD_HSV3kziMXuqV6rLhaRDYMpo6W4vA&usqp=CAU',
+  },
+];
